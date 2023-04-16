@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>500018103060-tntngmtc45h2n8i478obf5fs2tbjksu4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.500018103060-tntngmtc45h2n8i478obf5fs2tbjksu4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBto6Ir7wteAD72UcAnG5d5h4HUP3GEG4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>500018103060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.centennialcollege.Group-04-MAPD724-Assignment-01-</string>
+	<key>PROJECT_ID</key>
+	<string>abcd-31cff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>abcd-31cff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:500018103060:ios:43d064a3f6616eafebf801</string>
+	<key>DATABASE_URL</key>
+	<string>https://abcd-31cff-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
